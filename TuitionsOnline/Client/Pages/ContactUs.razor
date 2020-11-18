@@ -1,0 +1,105 @@
+﻿@page "/contactus"
+@using TuitionsOnline.Shared
+@inject HttpClient Http
+
+@inject IToastService ToastService
+
+
+<div class="row">
+    <div class="box col-6 align-content-md-center">
+        <br />
+        <br />
+        <div class="contactsheader">Reach Out To Us</div>
+        <br />
+
+
+        <div class="contactphone">
+            <a href="tel:804-718-8660">Phone - +918047188660</a>
+        </div>
+        <br />
+        <a href="mailto:support@tuitionsonline.center" target="_top" class="contactemail">
+            Email - support@tuitionsonline.center
+        </a>
+        <br />
+    </div>
+    <div class="box col-6">
+        <div class="container">
+            <img src="Image/reachoutkid.png" class="responsive" width="768" height="563">
+        </div>
+    </div>
+</div>
+
+<EditForm Context="formcontext" Model="contactToUs" OnValidSubmit="@(()=> CreateContact())">
+    <DataAnnotationsValidator />
+
+    <div class="container">
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">Defence Forces Personnel Please Mention Your Rank</label>
+            </div>
+            <div class="col-75">
+                <InputText @bind-Value="@contactToUs.DefenceForcesRank" class="form-control" />
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">Full Name</label>
+            </div>
+            <div class="col-75">
+                <InputText @bind-Value="@contactToUs.FullName" class="form-control" />
+                <ValidationMessage For="@(() => contactToUs.FullName)" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">Email</label>
+            </div>
+            <div class="col-75">
+                <InputText @bind-Value="@contactToUs.Email" class="form-control" />
+                <ValidationMessage For="@(() => contactToUs.Email)" />
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">Cell phone number</label>
+            </div>
+            <div class="col-75">
+                <InputText @bind-Value="@contactToUs.PhoneNumber" class="form-control" />
+                <ValidationMessage For="@(() => contactToUs.PhoneNumber)" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-25">
+                <label for="fname">How can we help you!</label>
+            </div>
+            <div class="col-75">
+                <InputText @bind-Value="@contactToUs.HowCanWeHelpYou" class="form-control" />
+                <ValidationMessage For="@(() => contactToUs.HowCanWeHelpYou)" />
+            </div>
+        </div>
+        <br />
+        <div class=imgcontainer>
+            <div class="imgcontainercenter">
+                <button type="submit" class="buttonsubmit">Submit</button>
+            </div>
+        </div>
+
+    </div>
+
+</EditForm>
+
+@code {
+
+    public ContactToUs contactToUs = new ContactToUs();
+
+    public async Task CreateContact()
+    {
+        Console.WriteLine("Reached");
+        await Http.PostJsonAsync("/api/Teachers/Contactus", contactToUs);
+        ToastService.ShowSuccess($" Thank you very much for reaching out to us ! We will get back to you very soon.");
+    }
+
+}

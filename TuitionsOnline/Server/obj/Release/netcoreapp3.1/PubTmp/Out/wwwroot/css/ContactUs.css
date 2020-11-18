@@ -1,0 +1,55 @@
+﻿.contactsheader {
+    color: #f47c20;
+    font-weight: bold;
+    font-size: 3vw;
+}
+
+.contactphone {
+    color: #027ab8;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.contactemail {
+    color: #f19b60;
+    font-weight: bold;
+    font-size: 25px;
+}
+.imgcontainer {
+    position: relative;
+    font-size: 20px;
+}
+.imgcontainercenter {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.buttonsubmit {
+    background-color: #f47c20;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 700px) {
+    .contactphone {
+        color: #027ab8;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .contactemail {
+        color: #f19b60;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .contactsheader {
+        color: #f47c20;
+        font-weight: bold;
+        font-size: 5vw;
+    }
+    .imgcontainercenter {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 37%;
+    }
+}

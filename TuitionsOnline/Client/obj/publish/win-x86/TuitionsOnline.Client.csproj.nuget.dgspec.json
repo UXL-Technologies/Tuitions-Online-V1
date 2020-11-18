@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
+        "projectName": "TuitionsOnline.Client",
+        "projectPath": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
+        "packagesPath": "C:\\Users\\UXL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UXL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
+                "projectPath": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Blazored.Toast": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.2.0-preview3.20168.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
+        "projectName": "TuitionsOnline.Shared",
+        "projectPath": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
+        "packagesPath": "C:\\Users\\UXL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UXL\\Desktop\\TuitionsOnline\\TuitionsOnline\\TuitionsOnline\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\UXL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

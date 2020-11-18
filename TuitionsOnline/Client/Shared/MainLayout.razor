@@ -1,0 +1,95 @@
+﻿@inherits LayoutComponentBase
+
+@using Blazored.Modal
+@using Blazored.Toast
+
+<BlazoredModal HideCloseButton="true" />
+
+
+<div class="main resolution_style" style="background-color: #f2f0e9; position: absolute; z-index:10000">
+    <BlazoredToasts Position="Blazored.Toast.Configuration.ToastPosition.BottomCenter" />
+</div>
+
+<body>
+    <NavMenu />
+
+    <div class="container">
+        @Body
+    </div>
+
+
+</body>
+
+@*<footer class="border-top footer text-muted" style="background-color:#0078d1;z-index:10000">
+    <br />
+    <div class="container" style="color:white">
+        <div class="row">
+            <div class="col">
+                <img src="Image/UXL-Code-Academy-150x150.jpg" class="responsive" width="1024" height="553">
+            </div>
+            <div class="col">
+                <br />
+                <br />
+                <div class="row">
+                    Phone - 08047188660
+                </div>
+                <div class="row">
+                    Email - support@uxlta.com
+                </div>
+            </div>
+            <div class="col">
+                <div class="row font-weight-bolder font">
+                    Quick Links
+                </div>
+                <br />
+                <div class="row">
+                    Home
+                </div>
+                <div class="row">
+                    Why Choose Us
+                </div>
+                <div class="row">
+                    our Approach
+                </div>
+                <div class="row">
+                    Free Session
+                </div>
+                <div class="row">
+                    Subscribe
+                </div>
+                <div class="row">
+                    Our Blog
+                </div>
+            </div>
+            <div class="col">
+                <div class="row font-weight-bolder font">
+                    Company
+                </div>
+                <br />
+                <div class="row">
+                    About Us
+                </div>
+                <div class="row">
+                    Contact Us
+                </div>
+            </div>
+            <div class="col">
+                <div class="row font-weight-bolder font">
+                    Legal
+                </div>
+                <br />
+                <div class="row">
+                    Privacy Policy
+                </div>
+                <div class="row">
+                    Terms and Conditions
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+</footer>
+<br />
+<div class="text-center">
+    &copy;All rights reserved
+</div>*@

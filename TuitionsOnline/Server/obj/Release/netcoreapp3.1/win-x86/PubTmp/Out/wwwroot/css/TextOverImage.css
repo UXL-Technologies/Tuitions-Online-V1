@@ -1,0 +1,465 @@
+﻿.imagecontainer {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hometext1 {
+    color: #98ccff;
+    font-weight: bold;
+    font-size: 4vw;
+    text-shadow: 2px 2px black;
+}
+
+.hometext2 {
+    color: #027ab8;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.hometext3 {
+    color: #f19b60;
+    font-weight: bold;
+    font-size: 2vw;
+    text-shadow: 1px 1px black;
+}
+
+.hometext4 {
+    /*   width: 430px;
+    font-weight: 600;
+    font-size: 2vw;
+    text-align: center;
+    background-color: #ffd22e;
+    box-shadow: 10px 7px 5px 3px #D3D3D3;*/
+    font-size: 30px;
+    font-weight: 600;
+    box-shadow: 10px 7px 5px 3px #D3D3D3;
+    background-color: #ffd22e;
+    border-radius: 7px;
+    /*box-shadow: 7px 4px 6px 2px #D3D3D3*/
+}
+
+.hometext5 {
+    color: #08bcc1;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.headertext {
+    color: #f47c20;
+    font-weight: bold;
+    font-size: 52px;
+    margin-left: 300px;
+}
+/*.students {
+    text-align: center;
+    font-size: 2vw;
+}*/
+
+
+/*BOX*/
+.box {
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+
+    .box .text1 {
+        position: absolute;
+        margin: 1px auto;
+        left: 7%;
+        right: 0;
+        top: 10%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 41%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 13%;
+        right: 0;
+        top: 25%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 47%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text3 {
+        position: absolute;
+        margin: 1px auto;
+        left: 21%;
+        right: 0;
+        top: 39%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 55%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text4 {
+        position: absolute;
+        margin: 1px auto;
+        left: 17%;
+        right: 0;
+        top: 54%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 51%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text5 {
+        position: absolute;
+        margin: 1px auto;
+        left: 29%;
+        right: 0;
+        top: 68%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 63%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text6 {
+        position: absolute;
+        margin: 1px auto;
+        left: 13%;
+        right: 0;
+        top: 83%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 47%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+/*IG 2*/
+
+    .box .text1ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 11%;
+        right: 0;
+        top: 10%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 44%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text2ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 13%;
+        right: 0;
+        top: 25%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 47%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text3ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 21%;
+        right: 0;
+        top: 39%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 55%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text4ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 22%;
+        right: 0;
+        top: 54%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 56%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text5ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 9%;
+        right: 0;
+        top: 68%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 44%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+    .box .text6ig2 {
+        position: absolute;
+        margin: 1px auto;
+        left: 13%;
+        right: 0;
+        top: 83%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #5145e6;
+        width: 47%;
+        font-size: 26px;
+        text-align: left;
+    }
+
+
+
+
+
+
+    /*MEDIA QUERY*/
+    @media screen and (max-width: 700px) {
+
+        .headertext {
+            color: #f47c20;
+            font-weight: bold;
+            font-size: 19px;
+            margin-left: 114px;
+        }
+
+        .box .text1 {
+            position: absolute;
+            margin: 1px auto;
+            left: 17%;
+            right: 0;
+            top: 9%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 51%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .box .text2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 10%;
+            right: 0;
+            top: 24%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 44%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .box .text3 {
+            position: absolute;
+            margin: 1px auto;
+            left: 24%;
+            right: 0;
+            top: 38%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .box .text4 {
+            position: absolute;
+            margin: 1px auto;
+            left: 24%;
+            right: 0;
+            top: 52%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .box .text5 {
+            position: absolute;
+            margin: 1px auto;
+            left: 23%;
+            right: 0;
+            top: 67%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .box .text6 {
+            position: absolute;
+            margin: 1px auto;
+            left: 23%;
+            right: 0;
+            top: 82%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 57%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+/*IG 2*/
+        .box .text1ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 17%;
+            right: 0;
+            top: 9%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 51%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .box .text2ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 10%;
+            right: 0;
+            top: 24%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 44%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .box .text3ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 24%;
+            right: 0;
+            top: 38%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .box .text4ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 24%;
+            right: 0;
+            top: 52%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .box .text5ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 6%;
+            right: 0;
+            top: 67%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 40%;
+            font-size: 13px;
+            text-align: left;
+        }
+
+        .box .text6ig2 {
+            position: absolute;
+            margin: 1px auto;
+            left: 24%;
+            right: 0;
+            top: 82%;
+            background: white;
+            font-family: Arial,sans-serif;
+            color: #5145e6;
+            width: 58%;
+            font-size: 13px;
+            text-align: left;
+        }
+        .hometext4 {
+            font-size: 2vw;
+            font-weight: 600;
+            background-color: #ffd22e;
+            box-shadow: 7px 4px 6px 2px #D3D3D3;
+            border-radius: 7px;
+        }
+
+        .hometext1 {
+            color: #98ccff;
+            font-weight: bold;
+            font-size: 4vw;
+            text-shadow: 1px 1px black;
+        }
+        .hometext3 {
+            color: #f19b60;
+            font-weight: bold;
+            font-size: 2vw;
+            text-shadow: 0.5px 0.5px 0px black;
+        }
+}

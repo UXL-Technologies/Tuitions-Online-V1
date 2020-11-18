@@ -1,0 +1,25 @@
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.deps.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfoInputs.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfo.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.deps.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfoInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfo.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.deps.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csprojAssemblyReference.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfoInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfo.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.pdb

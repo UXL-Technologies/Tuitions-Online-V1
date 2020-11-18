@@ -1,0 +1,321 @@
+﻿
+@using TuitionsOnline.Shared
+@using System.IO
+@using BlazorInputFile
+@inject HttpClient Http
+@inject IModalService Modal
+@inject IToastService ToastService
+
+
+<EditForm Context="formContext" Model="@teacher" OnValidSubmit="@(() => CreateTeacher())">
+    <DataAnnotationsValidator />
+    <div class="modal-header" style="background-color:#232122; margin-top:0px;">
+        <h4 align="center" class="modal-title mt-2" style="color:white; width:100%; ">Tuitions Online Teachers Registration Form</h4>
+        <button @onclick="@CancelTeacherModal" type="button" class="close" data-dismiss="modal" style="color:white">×</button>
+    </div>
+
+    @if (isResultExist == false)
+    {
+        <div class="spinner" style="margin-top:20vh;margin-bottom:25vh;">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div> }
+    else
+    {
+        <div class="modal-body" style="overflow-y:scroll; height:48vh;background-color: #f2f2f2;">
+            <div class="responsivecontainer">
+                <form action="action_page.php">
+                    <div class="row">
+                        <div class="col-25">
+
+                            <label for="fname" style="font-weight: 600">   <span style="color: red">*</span> Teacher Full name</label>
+                        </div>
+                        <div class="col-75">
+
+                            <InputText type="text" @bind-Value="@teacher.TeachersFullName" class="form-control" maxlength="40" placeholder="Teachers Full Name" />
+                            <ValidationMessage For="@(() => teacher.TeachersFullName)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span> Email Address</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText type="text" @bind-Value="@teacher.EmailAddress" class="form-control" maxlength="40" placeholder="Email Address" />
+                            <ValidationMessage For="@(() => teacher.EmailAddress)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span> Contact Number</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.ContactPhoneNumber" class="form-control" placeholder="Contact Phone Number" />
+                            <ValidationMessage For="@(() => teacher.ContactPhoneNumber)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="country"> <span style="color: red">*</span> Year Of Birth</label>
+                        </div>
+                        <div class="col-75">
+                            <InputSelect @bind-Value="@teacher.YearOfBirth" class="form-control">
+                                <option style="background-color: lightgrey" value="">Select the Year</option>
+
+                                <option style="background-color: lightgrey" value="1950">1950</option>
+                                <option style="background-color: lightgrey" value="1951">1951</option>
+                                <option style="background-color: lightgrey" value="1952">1952</option>
+                                <option style="background-color: lightgrey" value="1953">1953</option>
+                                <option style="background-color: lightgrey" value="1954">1954</option>
+                                <option style="background-color: lightgrey" value="1955">1955</option>
+                                <option style="background-color: lightgrey" value="1956">1956</option>
+                                <option style="background-color: lightgrey" value="1957">1957</option>
+                                <option style="background-color: lightgrey" value="1958">1958</option>
+                                <option style="background-color: lightgrey" value="1959">1959</option>
+                                <option style="background-color: lightgrey" value="1960">1960</option>
+                                <option style="background-color: lightgrey" value="1961">1961</option>
+                                <option style="background-color: lightgrey" value="1962">1962</option>
+                                <option style="background-color: lightgrey" value="1963">1963</option>
+                                <option style="background-color: lightgrey" value="1964">1964</option>
+                                <option style="background-color: lightgrey" value="1965">1965</option>
+                                <option style="background-color: lightgrey" value="1966">1966</option>
+                                <option style="background-color: lightgrey" value="1967">1967</option>
+                                <option style="background-color: lightgrey" value="1968">1968</option>
+                                <option style="background-color: lightgrey" value="1969">1969</option>
+                                <option style="background-color: lightgrey" value="1970">1970</option>
+                                <option style="background-color: lightgrey" value="1971">1971</option>
+                                <option style="background-color: lightgrey" value="1972">1972</option>
+                                <option style="background-color: lightgrey" value="1973">1973</option>
+                                <option style="background-color: lightgrey" value="1974">1974</option>
+                                <option style="background-color: lightgrey" value="1975">1975</option>
+                                <option style="background-color: lightgrey" value="1976">1976</option>
+                                <option style="background-color: lightgrey" value="1977">1977</option>
+                                <option style="background-color: lightgrey" value="1978">1978</option>
+                                <option style="background-color: lightgrey" value="1979">1979</option>
+                                <option style="background-color: lightgrey" value="1980">1980</option>
+                                <option style="background-color: lightgrey" value="1981">1981</option>
+                                <option style="background-color: lightgrey" value="1982">1982</option>
+                                <option style="background-color: lightgrey" value="1983">1983</option>
+                                <option style="background-color: lightgrey" value="1984">1984</option>
+                                <option style="background-color: lightgrey" value="1985">1985</option>
+                                <option style="background-color: lightgrey" value="1986">1986</option>
+                                <option style="background-color: lightgrey" value="1987">1987</option>
+                                <option style="background-color: lightgrey" value="1988">1988</option>
+                                <option style="background-color: lightgrey" value="1989">1989</option>
+                                <option style="background-color: lightgrey" value="1990">1990</option>
+                                <option style="background-color: lightgrey" value="1991">1991</option>
+                                <option style="background-color: lightgrey" value="1992">1992</option>
+                                <option style="background-color: lightgrey" value="1993">1993</option>
+                                <option style="background-color: lightgrey" value="1994">1994</option>
+                                <option style="background-color: lightgrey" value="1995">1995</option>
+                                <option style="background-color: lightgrey" value="1996">1996</option>
+                                <option style="background-color: lightgrey" value="1997">1997</option>
+                                <option style="background-color: lightgrey" value="1998">1998</option>
+                                <option style="background-color: lightgrey" value="1999">1999</option>
+                                <option style="background-color: lightgrey" value="2000">2000</option>
+                            </InputSelect>
+                            <ValidationMessage For="@(() => teacher.YearOfBirth)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span>Your City</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText type="text" @bind-Value="@teacher.ResidentialCity" class="form-control" maxlength="100" placeholder="Your City" />
+                            <ValidationMessage For="@(() => teacher.ResidentialCity)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span>Pin Code</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText type="text" @bind-Value="@teacher.ResidentialPinCode" class="form-control" maxlength="100" placeholder="Pin Code" />
+                            <ValidationMessage For="@(() => teacher.ResidentialPinCode)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Graduate</label>
+                        </div>
+                        <div class="col-75">
+                            <InputCheckbox @bind-Value="@teacher.Graduate" style="padding-left:10px; zoom:1" type="checkbox" id="Graduate" />
+                        </div>
+                    </div>
+
+                    @if (teacher.Graduate)
+                    {
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.GraduateField" style="width:auto" class="form-control" />
+                            <ValidationMessage For="@(() => teacher.GraduateField)" />
+                        </div>
+                    </div>
+                    }
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Post Graduate</label>
+                        </div>
+                        <div class="col-75">
+                            <InputCheckbox @bind-Value="@teacher.PostGraduate" style="padding-left:10px;" type="checkbox" id="Doctorate" />
+                        </div>
+                    </div>
+
+                    @if (teacher.PostGraduate)
+                    {
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.PostGraduateField" style="width:auto" class="form-control" />
+                            <ValidationMessage For="@(() => teacher.PostGraduateField)" />
+                        </div>
+                    </div>
+                    }
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Doctorate</label>
+                        </div>
+                        <div class="col-75">
+                            <InputCheckbox @bind-Value="@teacher.Doctorate" style="padding-left:10px;" type="checkbox" id="Doctorate" />
+                        </div>
+                    </div>
+
+                    @if (teacher.Doctorate)
+                    {
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.DoctrateField" style="width:auto" class="form-control" />
+                            <ValidationMessage For="@(() => teacher.DoctrateField)" />
+                        </div>
+                    </div>
+                    }
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span> Experience in years</label>
+                        </div>
+                        <div class="col-75">
+                            <InputNumber @bind-Value="@teacher.ExperienceInYears" id="ExperienceInYears" class="form-control" maxlength="3" />
+                            <ValidationMessage For="@(() => teacher.ExperienceInYears)" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span> Rate Per Class in Rupees</label>
+                        </div>
+                        <div class="col-75">
+                            <InputNumber @bind-Value="@teacher.RatePerClassInRupees" id="RatePerClassInRupees" class="form-control" maxlength="7" />
+                            <ValidationMessage For="@(() => teacher.RatePerClassInRupees)" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="country"> <span style="color: red">*</span> Subject you wish to teach</label>
+                        </div>
+                        <div class="col-75">
+                            @*<InputSelect @bind-Value="@teacher.SubjectYouWishToTeach" class="form-control">
+                    <option style="background-color: lightgrey" value="">Select the Year</option>
+
+                    <option style="background-color: lightgrey">English</option>
+                    <option style="background-color: lightgrey">Mathematics</option>
+                    <option style="background-color: lightgrey">Biology</option>
+                    <option style="background-color: lightgrey">Physics</option>
+                    <option style="background-color: lightgrey">Chemistry</option>
+                    <option style="background-color: lightgrey">Accounts</option>
+                    <option style="background-color: lightgrey">Economics</option>
+                    <option style="background-color: lightgrey">History</option>
+                </InputSelect>*@
+                            <InputText @bind-Value="teacher.SubjectYouWishToTeach" id="SubjectYouWishToTeach" class="form-control" minlength="4" maxlength="100" />
+                            <ValidationMessage For="@(() => teacher.SubjectYouWishToTeach)" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname"> <span style="color: red">*</span> Preferred Language</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.PrefferedLanguage" id="PrefferedLanguage" class="form-control" minlength="4" maxlength="100" />
+                            <ValidationMessage For="@(() => teacher.PrefferedLanguage)" />
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-25">
+                            <label style="font-weight: 600" for="lname">Alternative Language</label>
+                        </div>
+                        <div class="col-75">
+                            <InputText @bind-Value="@teacher.AlternativeLanguage" id="ItemNumber" class="form-control" maxlength="100" />
+                            <ValidationMessage For="@(() => teacher.AlternativeLanguage)" />
+                        </div>
+                    </div>
+                    <p>If you click the Save button and you do not get a “Success” message , please look for error messages above in red.</p>
+                 </form>
+            </div>
+        </div>
+    }
+        <!-- ModalService footer -->
+        <div class="modal-footer" style=" height:70px; justify-content: center; align-content: center; align-items: center;">
+            
+            
+            <button type="submit" class="footer-button-color">Save</button>
+            <button type="button" class="footer-button-color" @onclick="@CancelTeacherModal">  Cancel </button>
+        </div>
+    </EditForm>
+
+@code {
+
+
+    //private Teachers teacher = new Teachers();
+    public Teacher teacher = new Teacher();
+    byte[] PdfFileInByteArray;
+    string status;
+    string DocumentPath;
+    public bool isResultExist = true;
+    async Task HandleSelection(IFileListEntry[] files)
+    {
+
+        var file = files.FirstOrDefault();
+        if (file != null)
+        {
+            var ms = new MemoryStream();
+            await file.Data.CopyToAsync(ms);
+            PdfFileInByteArray = ms.ToArray();
+            status = $"Finished loading {file.Size} bytes from {file.Name}";
+
+            DocumentPath = $"data:image/jpg;base64 , {Convert.ToBase64String(PdfFileInByteArray)}";
+
+        }
+    }
+
+    public async Task CreateTeacher()
+    {
+        //teacher.UploadYourIdentificationDocument = PdfFileInByteArray;
+        Console.WriteLine("reached");
+        //await Http.SendJsonAsync(HttpMethod.Post, "/api/Teachers/Create", teacher);
+        isResultExist = false;
+        await Http.PostJsonAsync("/api/Teachers/Create", teacher);
+        isResultExist = true;
+        Modal.Cancel();
+        ToastService.ShowSuccess($" Thank you very much for registering with us !");
+    }
+
+
+
+    void CancelTeacherModal()
+    {
+        Modal.Cancel();
+
+    }
+
+}

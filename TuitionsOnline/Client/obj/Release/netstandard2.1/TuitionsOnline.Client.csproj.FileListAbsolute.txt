@@ -1,0 +1,549 @@
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Properties\launchSettings.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Modal.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Shared.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Modal.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Client.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Shared.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Blazored.Modal.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Blazored.Toast.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\BlazorInputFile.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Buffers.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Memory.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Text.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csprojAssemblyReference.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.AssemblyInfoInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.AssemblyInfo.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csproj.CoreCompileInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorComponent.input.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\TeacherRegistrationUI.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\TuitionsOnline.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.TagHelpers.input.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.TagHelpers.output.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorCoreGenerate.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\TeacherRegistrationUI.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorTargetAssemblyInfo.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csproj.CopyComplete
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\linker.descriptor.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\linker.typegranularityconfig.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\XytM-69h1IR519dacYMQZhSl0WNLdotKGjQECHadmb0=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\q9Hve58tpemE_pN4zfzYN_vJpWQroVRyspF2wP3AcbQ=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\RjWbDFCNJKESSAdoOrrpjjA4HimQW4G3FMBg5bBsrZs=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\tSgpHMMPulJycSElSBCjmXU3qQ1hwOc8Tw5dwpjOBBI=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\E8gUY7MFiQ8atK5cwJ-UYJqli-JKChg4NOA9Zv1wvg0=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\_KWE26a13qSccwagT2uBJ76PQC2RBwyGEHATmbt_4_8=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\blazor.boot.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Modal.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Client.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Shared.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Modal.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Client.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Shared.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\staticwebassets\TuitionsOnline.Client.StaticWebAssets.Manifest.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\staticwebassets\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\TeacherRegistrationForm.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\TeacherRegistrationForm.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\AboutUs.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\ContactUs.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\AboutUs.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\ContactUs.razor.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\upxNFRO2H0zlZ6k4wCh-oXcEytxkIyHeoL4zmn97tRI=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\db5A3eptSvDIOsWp9IdmUJagdb7oMdLkFwnv9QSFChQ=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\8Z6x2lWwrZ_eeuisZQtzKYuZh0sAJxXxnuiQzRv_Ee0=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\XxyEKPgaVxuGnyVwq-V0DnNzTpX91iCQe7PBJyUMY7c=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\SXPH8xBR9DPTK1yVd8oXM4Q2M0O7_Txrd2tipSoaZO4=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\sxaI7XIQ-sGAW8IbJuTODw0Z_iIgWDTLh8OVAClz3Dk=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\JHc3tbz1W-gVc1YUA2_7wRu3moOpUslydVbacGSx-oo=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\QVjwGhfLGW0oDbrsPoSbiz9RGOSWywqX1V_PdLIl6z8=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\U0C0cgACu57TaU4znKGhpLTY4QLkPHx-iKtTD4pK3ME=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\TyK-mf10sq-XBkHhmCZn1Y59Mi6ekcK_8XhrccyoHiU=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\4tHh-MdZJuePJiXB0qVzo3xVFcbDfIDjkOTvvhYrPa8=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\pfdidzpuxwU1KQJ4LfslTUiXKLIqBGHt2rgra-H4c88=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\dZjII9iaWCPhlmUAmP0FbFhr-W_9VoYh4QEtjVNfvGs=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\7VJ3fzpWiQ1bRFWPpsjM8oyhDyhS8FIDjDiPcI33L0U=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\AU_nHOh2kQdc0C4A_iJ860r-xRZushGcjUIt_IGuxOU=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\wd1jdtskXNhWMNNBPwIG0YNgX9LtaySq5wzm5G5zRSs=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\3tiFS87G4GMYYXTZcUEJ18m_UjtHl_3WNAnWgYTAyWk=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\9yAjOcU1jZJkpHUx5kAoqVOmF1cE2DQZrAwSnKamms0=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\IKGIQq1xwaCb0hqS-ElfDfW-926FIh3MKsOcBAU_B30=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\6HZs45fK0IivAUDK5JL_AEHEBLeSMjLqWRBL5iwSqUo=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\8W1FxUEFjKNvRZzr9MJBWlCnWk3iduee2xp6kh3eGbA=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\WnInfxdxCEwD1MsIufE-VL9n5M00Q8acOVwTw8gqY6o=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\b97PSriotXQmWZkNwMy-fRlQVS2JcOJGRYKtDEvFx14=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\ffq1_f8kCX_PECV2FynOe0svs4TPr-vxVUZZmVV3pzs=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\BJ7uZIafJE9cqv_RKW2Wr3LyJ16QCu18d8wbyjiu8bo=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\YMDecU7T0bC2jiyPbp26svvf4lLQx-qPK1dw7lnC1wY=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\59PEb9Vwi-uzFVoD6hSUs3NO73WP872u692J9uHXIrY=.hash
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\FkG6F7j1VsARyZ2ygyEQCnhCYAsQb8CTAnXWsn4cS9o=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Client.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Modal.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Shared.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Modal.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Client.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\TuitionsOnline.Shared.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Blazored.Modal.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Blazored.Toast.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\BlazorInputFile.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Buffers.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Memory.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Text.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Shared.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Release\netstandard2.1\TuitionsOnline.Shared.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csprojAssemblyReference.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.AssemblyInfoInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.AssemblyInfo.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorComponent.input.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\AboutUs.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\ContactUs.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\TeacherRegistrationForm.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Pages\TeacherRegistrationUI.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorComponent.output.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\RazorDeclaration\TuitionsOnline.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.TagHelpers.input.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.TagHelpers.output.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorCoreGenerate.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\AboutUs.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\ContactUs.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\TeacherRegistrationForm.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Pages\TeacherRegistrationUI.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\linker.descriptor.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\linker.typegranularityconfig.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\XytM-69h1IR519dacYMQZhSl0WNLdotKGjQECHadmb0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\q9Hve58tpemE_pN4zfzYN_vJpWQroVRyspF2wP3AcbQ=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\RjWbDFCNJKESSAdoOrrpjjA4HimQW4G3FMBg5bBsrZs=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\tSgpHMMPulJycSElSBCjmXU3qQ1hwOc8Tw5dwpjOBBI=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\E8gUY7MFiQ8atK5cwJ-UYJqli-JKChg4NOA9Zv1wvg0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\_KWE26a13qSccwagT2uBJ76PQC2RBwyGEHATmbt_4_8=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\QKEmPPmRFA5DvLHpso7-FUJxib88dSYEzuzRGIB_LSU=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Modal.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Client.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Shared.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Modal.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Client.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\TuitionsOnline.Shared.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\staticwebassets\TuitionsOnline.Client.StaticWebAssets.Manifest.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\staticwebassets\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\scopedcss\bundle\TuitionsOnline.Client.styles.css
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.csproj.CopyComplete
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\TuitionsOnline.Client.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\ZKAEB8EO97QrnAgdN8xIKM-xizbCH6UH8xDvhljF1cs=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\xVznpwxlqjC-259oGVTIDNpIdbl9EDCYlUCAD1OrbsM=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\hYhMXbpj6LB6yHebVMWkDiDE1d-opJVBf9LnkDsnUH0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\EAvM3O4JmDWBEuBiOgMhSvjanlvG7YcN8hMFQnI11Vk=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\eizr24-aJSk3X2HflgTXvhOjoHDUyyfXd0JyvoZ_3Wo=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\KWzCbMkQp5PGEOZc_xyAuY9471vFqLGEuAqZ0DDMZDw=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\vHjFuX4xDCaGHjDsGCE8v5FJXljU10MAfgTi2_vfF08=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\ges_LFOoz2YURtu6UrdoHr1A_KzS39RnltEADRMFPsk=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\sohcskwWGSER5RUnHG06WceHcvEH6i9M5ZA5Ee0vFTM=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\dD6Y2SaxPtperiIyOHIe0cAgguRHrKDZl6ncXYciYXU=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\sCJaMUYLClP0zGN1OWalqfg6n2yde1oIJfofz6AHYqI=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\rRq6dW8RhhmjcglbSEW3ZfQuZzvOiMeD-ZFvK-686CA=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\j_Mp_f-tQuH8Mv5oL3cPOeC8TnHbz9TU2D2mf812DBE=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\rO5WBwx5kiXm-jD_sBtR6a0FKthbSSZsfljQAEbFItM=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\UciWpfQ9bw_7x8mR-090Pf2sHwWyT6GznUvj45i5hG8=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\Gqb4g7z0F-fDobgtxqF0KxrPJe9z6temEvSOmVOpBgg=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\qBNXXPCDy8NDZgeO2o0UlLzbHzC24BS0NlLaqvPyzm0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\m_QD29uz5dXquDhswaXVOJNDQO748kMxifyZHD3JRVE=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\IZ2lYCx2A5fp8mbtvgtNge8ul216arBYuz5-_QOkbqw=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\QjG-6xzs-Q9lAJJ-jYPCmAf_kXiIVPHsDSryRd9ftg0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\dNd_vpe-FPwlABNvKu4wMY6EzS2pB2tA112s4UJvZwQ=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\LTIUxIhuhqoMxt9jm3FfVTZCfM3XvRWen3Pv893HvRc=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\XZVq_Hj-Rb5E2N3kDKL6nRPzg3aIk5uMksRiRidi01A=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\ijJgyQBDenJdYj-JSR-_JYLWpWqRXQ5ImLewcTNkoXY=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\G0eqn8aOv-6LydKrL9UhGfOO43bKNcA3vLvZDmKstrQ=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\2E8j7afHDDKDO5X9rdF86_VkhNZxUhhpV0Jz8EpEqPY=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Release\netstandard2.1\integrity\PuCrrX_aWyk_sgr8_CD76a-wMk3GjgCCTpKymjW26SM=.hash

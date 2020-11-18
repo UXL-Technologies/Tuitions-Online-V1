@@ -1,0 +1,761 @@
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csprojAssemblyReference.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfoInputs.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfo.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.StaticWebAssets.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.StaticWebAssets.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.exe
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.deps.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.dev.json
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.input.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.output.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorCoreGenerate.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cs
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CopyComplete
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.Manifest.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.xml
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.genruntimeconfig.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CoreCompileInputs.cache
+V:\Projects\UXLTA_PRODUCTION\TUITIONS_ONLINE\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\tuitionsonline - Web Deploy1\profile.arm.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\tuitionsonline - Web Deploy\profile.arm.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.StaticWebAssets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.exe
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.deps.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.dev.json
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csprojAssemblyReference.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfoInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfo.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CoreCompileInputs.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.input.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.output.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorCoreGenerate.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cs
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CopyComplete
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.Manifest.cache
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.xml
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.genruntimeconfig.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.StaticWebAssets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.StaticWebAssets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.exe
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.deps.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.runtimeconfig.dev.json
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Shared.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csprojAssemblyReference.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfoInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.AssemblyInfo.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorAssemblyInfo.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.Manifest.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\staticwebassets\TuitionsOnline.Server.StaticWebAssets.xml
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\TuitionsOnline.Server.styles.css
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.input.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.TagHelpers.output.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorCoreGenerate.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.Views.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.csproj.CopyComplete
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.genruntimeconfig.cache

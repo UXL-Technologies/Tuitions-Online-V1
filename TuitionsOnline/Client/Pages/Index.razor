@@ -1,0 +1,164 @@
+﻿@page "/"
+
+@inject IModalService BlazoredModal
+@*<div class="container">*@
+@*<div class="row">
+        <div class="col-5 font-weight-bold font">
+            <div class="col" style="position:absolute;top:26%;">
+                <div class="row font-weight-bolder">
+                    Tuitions Online
+                </div>
+                <div class="row font-weight-bold" style="color:#027ab8;font-size:2vw">
+                    Bringing Teachers and Students of India Together
+                </div>
+                <br />
+                <div class="row font-weight-bold" style="color:#f19b60;font-size:2vw">
+                    Teachers registration is now open
+                </div>
+                <div class="row">
+                    <button class="btn btn-warning" style="width: auto;font-weight: 600;font-size:2vw;" @onclick="@OpenTeachersForm">Register</button>
+                </div>
+                <br />
+                <div class="row font-weight-bold font-italic" style="color:#08bcc1;font-size:2vw">
+                    Students please standby for some exciting times ahead!
+                </div>
+            </div>
+        </div>
+        <div class="col-7">
+            <div class="container">
+                <img src="Image/Artboard1New.png" class="responsive" width="768" height="563">
+            </div>
+        </div>
+
+    </div>*@
+@* new code *@
+<div class="row">
+    <div class="box col-5 align-content-md-center">
+        <div class="hometext1">
+            Tuitions Online
+        </div>
+        <br />
+        <div class="hometext2">
+            Bringing Teachers and Students of India Together
+        </div>
+        <br />
+        <div class="hometext3">
+            Opening Soon For Students !
+        </div>
+        <br />
+        <div>
+            <button type="button" class="btn-default font-weight-bolder hometext4"  @onclick="@OpenTeachersForm">Teachers please click here to Register</button>
+        </div>
+        <br />
+        @*<div class="hometext5">
+            Students please standby for some exciting times ahead!
+        </div>*@
+    </div>
+    <div class="box col-7">
+        <div class="container">
+            <img src="Image/Artboard1New.png" class="responsive" width="768" height="563">
+        </div>
+    </div>
+</div>
+@*<br />
+<br />
+<div class="students justify-content-center">Opening Soon For Students !</div>*@
+
+
+@* new code *@
+<div class="row">
+    <div class="container">
+        <img src="Image/ifo copy.png" class="responsive" width="768" height="563">
+    </div>
+</div>
+
+<div class="row">
+
+    @*<div class="container">
+            <img src="Image//pencil 1.png" class="responsive" width="768" height="563">
+        </div>*@
+
+    @*<div class="imagecontainer">
+            <img src="Image/pencil3.png" class="responsive" width="768" height="563">
+            <div class="bottom-left">Pick and choose a schedule + teacher combination that works for you.</div>
+            <div class="top-left">Find the best teacher for yourself.</div>
+            <div class="top-right">Buy only as many classes as you need.</div>
+            <div class="bottom-right">You have the ability to choose another teacher if you need to.</div>
+            <div class="left-centered">Use the innumerable options available to you.</div>
+            <div class="right-centered">Learn from the comfort of your home.</div>
+        </div>*@
+    @*<div class="imagecontainer">
+            <img src="Image/pencil3.png" style="width:100%;" class="responsive box">
+            <div class="bottom-left">Bottom Left</div>
+            <div class="top-left">Top Left</div>
+            <div class="top-right">Top Right</div>
+            <div class="bottom-right">Bottom Right</div>
+            <div class="centered">Centered</div>
+        </div>*@
+
+    <div>
+            <div class="headertext">Benefits for Students</div>
+        </div>
+    
+    <div class="box">
+        <img class="responsive" src="Image/pencil3.png">
+        <div class="text1 font-weight-bold">
+            Find the best teacher for yourself.
+        </div>
+        <div class="text2 font-weight-bold">
+            Buy only as many classes as you need.
+        </div>
+        <div class="text3 font-weight-bold">
+            Use the innumerable options available to you.
+        </div>
+        <div class="text4 font-weight-bold">
+            You have the ability to choose another teacher if you need to.
+        </div>
+        <div class="text5 font-weight-bold">
+            Pick and choose a schedule + teacher combination that works for you.
+        </div>
+        <div class="text6 font-weight-bold">
+            Learn from the comfort of your home.
+        </div>
+    </div>
+    <br />
+    <h3 class="headertext">Benefits for Teachers</h3>
+    <div class="box">
+        <img class="responsive" src="Image/pen1.png">
+        <div class="text1ig2 font-weight-bold">
+            Let students find you.  You have more options now.
+        </div>
+        <div class="text2ig2 font-weight-bold">
+            Teach from the comfort of your home.
+        </div>
+        <div class="text3ig2 font-weight-bold">
+            Collect your fee effortlessly and in advance.
+        </div>
+        <div class="text4ig2 font-weight-bold">
+            Pick and choose a schedule + student  combination that works for you.
+        </div>
+        <div class="text5ig2 font-weight-bold">
+            Your location is no longer a constraint.
+        </div>
+        <div class="text6ig2 font-weight-bold">
+            Scale up and scale down your tuitions according to your needs using our scheduling engine.
+        </div>
+    </div>
+
+
+</div>
+
+@*</div>*@
+
+
+
+
+
+@code{
+    public void OpenTeachersForm()
+    {
+        BlazoredModal.Show("", typeof(TeacherRegistrationForm));
+    }
+
+
+}

@@ -1,0 +1,207 @@
+﻿
+
+.text-box {
+    color: #64b2ff;
+    font-size: large;
+    background-color: white;
+    width: auto;
+    border: 5px solid #589dcc;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 28px;
+    box-shadow: 3px 4px 14px 2px #D3D3D3;
+}
+.aboutheader {
+    color: #589dcc;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.box {
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+
+    .box .about1 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 75%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 23%;
+        font-size: 26px;
+    }
+    .box .about2 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 82%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #ed7d31;
+        width: 23%;
+        font-size: 24px;
+    }
+    .box .about3 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 91%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 29%;
+        font-size: 18px;
+    }
+    .box .about4 {
+        position: absolute;
+        margin: 1px auto;
+        left: 38%;
+        right: 0;
+        text-align: center;
+        top: 75%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 23%;
+        font-size: 26px;
+    }
+
+    .box .about5 {
+        position: absolute;
+        margin: 1px auto;
+        left: 37%;
+        right: 0;
+        text-align: center;
+        top: 82%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #ed7d31;
+        width: 23%;
+        font-size: 24px;
+    }
+
+    .box .about6 {
+        position: absolute;
+        margin: 1px auto;
+        left: 37%;
+        right: 0;
+        text-align: center;
+        top: 91%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 33%;
+        font-size: 18px;
+    }
+
+
+@media screen and (max-width: 700px) {
+    .aboutheader {
+        color: #589dcc;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .text-box {
+        color: #64b2ff;
+        font-size: 2vw;
+        background-color: white;
+        width: auto;
+        border: 2px solid #64b2ff;
+        padding: 50px;
+        margin: 20px;
+        border-radius: 28px;
+    }
+    .box .about1 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 75%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 27%;
+        font-size: 9px;
+    }
+
+    .box .about2 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 82%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #ed7d31;
+        width: 29%;
+        font-size: 8px;
+    }
+
+    .box .about3 {
+        position: absolute;
+        margin: 1px auto;
+        left: -43%;
+        right: 0;
+        text-align: center;
+        top: 91%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 27%;
+        font-size: 6px;
+    }
+
+    .box .about4 {
+        position: absolute;
+        margin: 1px auto;
+        left: 38%;
+        right: 0;
+        text-align: center;
+        top: 75%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 23%;
+        font-size: 9px;
+    }
+
+    .box .about5 {
+        position: absolute;
+        margin: 1px auto;
+        left: 37%;
+        right: 0;
+        text-align: center;
+        top: 82%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #ed7d31;
+        width: 23%;
+        font-size: 9px;
+    }
+
+    .box .about6 {
+        position: absolute;
+        margin: 1px auto;
+        left: 37%;
+        right: 0;
+        text-align: center;
+        top: 91%;
+        background: white;
+        font-family: Arial,sans-serif;
+        color: #589dcc;
+        width: 31%;
+        font-size: 6px;
+    }
+}
