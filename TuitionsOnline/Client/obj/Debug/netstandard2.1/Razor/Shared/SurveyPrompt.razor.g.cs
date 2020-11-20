@@ -100,6 +100,13 @@ using Blazored.Toast.Services;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 14 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\_Imports.razor"
+using Blazorise;
+
+#line default
+#line hidden
+#nullable disable
     public partial class SurveyPrompt : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

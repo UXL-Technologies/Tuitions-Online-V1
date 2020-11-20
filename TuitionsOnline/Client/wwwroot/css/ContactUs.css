@@ -47,7 +47,8 @@
     .imgcontainercenter {
         margin: 0;
         position: absolute;
-        top: 50%;
         left: 37%;
+        margin-top:33px;
+        
     }
 }

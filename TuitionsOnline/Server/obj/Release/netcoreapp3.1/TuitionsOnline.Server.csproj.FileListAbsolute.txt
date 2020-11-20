@@ -508,3 +508,6 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\TuitionsOnline.Server.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\TuitionsOnline.Server.pdb
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\TuitionsOnline.Server.genruntimeconfig.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Release\netcoreapp3.1\Blazorise.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Release\netcoreapp3.1\Blazorise.Bootstrap.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Release\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll

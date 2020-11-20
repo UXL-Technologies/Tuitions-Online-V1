@@ -1,42 +1,57 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\XytM-69h1IR519dacYMQZhSl0WNLdotKGjQECHadmb0=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\B1Nm4sOt0zFMgOCa07442YyjV6PaQYVLurd6ifLL-KA=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.Modal.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.Modal.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\q9Hve58tpemE_pN4zfzYN_vJpWQroVRyspF2wP3AcbQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\2JqyygWyFurXxDmnTCMBE83qqzFUBlogUkPVhp3BsOA=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazored.Toast.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazored.Toast.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RjWbDFCNJKESSAdoOrrpjjA4HimQW4G3FMBg5bBsrZs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\j1q9iqjtX-3pvecRbKSb1vL0ICjJomC9e1UOyabvb-k=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\BlazorInputFile.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorInputFile.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_Gi3vw8I4Wf-C9E9rVxwVs7CKh47xig6ww2YfH24AtQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rXnGHguYk4i_qhYI6nnn7sPQz4-WvLwW1NAVRKm0144=.hash",
+      "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazorise.Bootstrap.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Bootstrap.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\3W3A4CF0POPquq0vFbwScN-Co06rZpUb1Y3neyQPd9g=.hash",
+      "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazorise.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RgvGiZv0dpjNSeMG44nOI9C4_6BQiRlwVYxN3yskcbA=.hash",
+      "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Blazorise.Icons.FontAwesome.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Blazorise.Icons.FontAwesome.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rMz8vSEpSqtrWXUwxGOMZVZqC6TrGE7qumOAZAev8Is=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Blazor.HttpClient.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Blazor.HttpClient.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\lICK4cdqVbri_H4cnjgNvFmQxCXA6gCh2v3fkWPGC3A=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\sr6qUAVCuFaaeg-1Dfv2XjUZ-Tp8fv1Dn_ArNmvBCUo=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qFU8InZ5_ph4a0c9NDnxT90j08NZnzRnotXBjHk4ZtM=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rbz1YHUaE5AYsJ4WV6pzhM9dckuS98c8CtiPtWbh6vI=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Forms.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\z9lzZ2Ye8Kh6Ii4YnklByVDLLJfhZkcE7Nkm9kBnC2g=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\CYPW1E71fbcO17wPPEF-idw1yORCe07ydY1BPkbMUeQ=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\eZ1SYaekJcuQN3Xvu8MaETHTPweisyN8tV3BAzFU0GI=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\S-xgDPDEbfMZs_XRcYt0_EBaQGI2gxipazQUKn4TKgw=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.AspNetCore.Components.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
@@ -46,112 +61,122 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Bcl.AsyncInterfaces.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\x1sWp4xotov5v2XE96qoiSiLIBO3Ush5_TwK9CslprM=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\5t7MFtcK7tW7kvZfn_LGWvNO-g1ayvkN3zMFlD4XFhM=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\eW_KCdu_DYIuorxlJ2nT1774FNw4cQ_FrVIWC4QBOus=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\qTVNUgp9cD6LeVV1Wtmby3kS4aEnA4Yh6mh92gKFtdk=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\P5TY_CETmWd6gZzF91uFnuauTdac4qcISCktnsCqxck=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RnA87ffXg4LmoBM9MkTRIkL-dCL2eE4adBYNJs-zlxM=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Configuration.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Configuration.Json.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\mK4rcq_d5zP9ZyrQrzp8Dto3ucYZF-kZbco4ic_Eftc=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\NpC-pS4beuaSkr-1aAe8tFv2KiYeL1CLEeQr759jXsU=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\rtjdceDUOYz94ukj7QOPum11LsPWYCfQYuQkAp0rrXo=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\KkZATQfy-nreCKdLGzjPLGS3WqOw-gwrRwh6hb3_VxA=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.DependencyInjection.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\c-6LwVwEV94hFEriSgrDLBPWTZRbzCH5tNJuL44HHHs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\km9kyzDT24kmpEUJsRMHJa6_640GIJwIYkCNmIDqaqU=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_q1tOswaT-YPFtCwuBbBeIlxXxxVjBGyN_4oWoPelHE=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\fESbvf-8MLNoLCwx00rv929mL1kcH5cJuWr2EbQ6Tnk=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Logging.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\4NW3exDJCQUb3xTxDlEZpgLm3ucdUdbo1GCTLrZS3GQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\69XyU6_lgNAkQ2X8U9OGPQ31qh6Q0wtD7dsXYyIe_Hw=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\uoM-z4wRrxgJQU_U9NIxGmGREkOVw4JJxPcJtTF7Xsk=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\W-ley6ZX_JppvmP1FIwmbUIkx5HmTyarE29x6zJmtus=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\E8gUY7MFiQ8atK5cwJ-UYJqli-JKChg4NOA9Zv1wvg0=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\e0mQHvXEMyho-UD_ilmvdYRHvyBXhxHyKWVy77X9HFk=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\_KWE26a13qSccwagT2uBJ76PQC2RBwyGEHATmbt_4_8=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nM5aL4xDXKKJQS43GneMtDfigdCQAU_u9OwCyCU5GfA=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\Microsoft.JSInterop.WebAssembly.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\AxDx7tKkgESzVrnwl5Bfy1kWBpuM_aSc_khbOymYrT4=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\P44-92lVbTHT28DDhe2eOtp7GkxYarPAAphcyBNek8s=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\mscorlib.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/mscorlib.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\DiwPTgNCd8OU0_MdaQDHnTUVOhM0KCAP7tuIS8lkij0=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\xEAmF79-C7dCAbYYAnqHlAWQPz9Egy-Fau7PVg15h6k=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.ComponentModel.DataAnnotations.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nilqv1QRFotqj7M_NFk77D2mJwsEYrMtXx81VK2IQfY=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\sD0VaXS7LjAwyPsiemvcYGeTNgyHZxG0TKe5DIdigCo=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Core.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Core.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\sDPL95YUvQ6gPBfcYqKN_0iWqmfNLuBKppAhyhzkvrs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\nDVf32bzX7CS0IV7zoNch9SX0TXonbOFO1huAAGtGgc=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\-I3HZ4AiEyMh1_hU8Z-SLbnaEMapUi3uYofU1_BwLQg=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hO5K6762N7EgFKz6b2ETbM_XMQxwrIn4YwxoXSIasEc=.hash",
+      "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Drawing.Common.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Drawing.Common.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\GQOFa_m1T87vXJhn03u4xXk9hDl9r0oh6g0qmP8xUno=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\m4XZRazbhDCAU43e2XMI82uT2VvV7-5CUdqekBd2sTs=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\v-WUbsDb6J_rfeZVPCaVfCt5ANf3Vp5R-sibUgpXy04=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.Json.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\MCF83qWjLyVwgYi4dzq9Jtp-YqA8pvLd_0ALOHmBhuQ=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\6L0ISDa5Y_1zXaxOEm15s-mNUU9f6yzwUwW7X33j2jw=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Net.Http.WebAssemblyHttpHandler.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Net.Http.WebAssemblyHttpHandler.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tUZF70W91GEJ-bd1n9N_MyOLW8dFNztTGf-WFB1_cNM=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\tzwtEWxoCJR3ulbbrAkJq3G92WYfqlF55Ogzjuau6V0=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.CompilerServices.Unsafe.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.CompilerServices.Unsafe.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\RfRMEySqc14yGpZvHpv9qq03x0UVps1Sd6qzcE6vYZw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\R5OYc2Dxy8qGHVG1z6gJ-fArEHacPD2Hbym9jo10DBk=.hash",
+      "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Runtime.Serialization.dll",
+      "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Runtime.Serialization.dll.gz"
+    },
+    {
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\oRtTcv8tHmbAdYo-BvEQglalrf_tsOmAxMmOzB6YdEc=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\l-GbitFR2T9ViZYHqLQwuevFAaRfkj_81rZhXfPYfE8=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\csX7nb0n5VpO4ElfzFI8TqCH8HWfOL9RFnK3XAHgmIo=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\System.Text.Json.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7e6aFit8bJhJiBWQbm7RXO-vK7sQ4U6pR-hMqt4lGKw=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\Ol3EE0LYvyVWN8Ofu9sJiaNyYZKL-B1f_02s8-6-a5A=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\TuitionsOnline.Client.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/TuitionsOnline.Client.dll.gz"
     },
@@ -161,7 +186,7 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/TuitionsOnline.Shared.dll.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\7QuHgSEOO7440Htf_dXxTmTQl85J_Ty7fTjOwCcaJis=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\AWtdaEbHRDkjWVLIWkAzX4N6Zl3WrXaFeNERxxm35aI=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\linker\\WebAssembly.Bindings.dll",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/WebAssembly.Bindings.dll.gz"
     },
@@ -186,7 +211,7 @@
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\JZZ-GORfQ7ooOyR8mmX1yG3NyF4lpcTQzWLQxlcjh_U=.hash",
+      "InputSource": "obj\\Release\\netstandard2.1\\integrity\\hKyj0dstu9I8vxry_aA5KL7F9D6xqIiCgUW1VA0rvi8=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

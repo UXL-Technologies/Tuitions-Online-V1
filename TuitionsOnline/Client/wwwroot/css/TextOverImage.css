@@ -49,7 +49,7 @@
 }
 
 .hometext3 {
-    color: #f19b60;
+    color: #ed7d31;
     font-weight: bold;
     font-size: 2vw;
     text-shadow: 1px 1px black;
@@ -64,11 +64,16 @@
     box-shadow: 10px 7px 5px 3px #D3D3D3;*/
     font-size: 30px;
     font-weight: 600;
-    box-shadow: 10px 7px 5px 3px #D3D3D3;
     background-color: #ffd22e;
     border-radius: 7px;
+    color: white;
+    border-color: white;
+    box-shadow: 10px 6px 6px 2px #D3D3D3;
     /*box-shadow: 7px 4px 6px 2px #D3D3D3*/
 }
+    .hometext4:hover {
+        background-color: #ed7d31;
+    }
 
 .hometext5 {
     color: #08bcc1;
@@ -289,7 +294,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 51%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .box .text2 {
@@ -302,7 +307,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 44%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .box .text3 {
@@ -315,7 +320,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .box .text4 {
@@ -328,7 +333,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .box .text5 {
@@ -341,7 +346,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .box .text6 {
@@ -354,7 +359,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 57%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -369,7 +374,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 51%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -383,7 +388,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 44%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -397,7 +402,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -411,7 +416,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -425,7 +430,7 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 40%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
 
@@ -439,27 +444,32 @@
             font-family: Arial,sans-serif;
             color: #5145e6;
             width: 58%;
-            font-size: 13px;
+            font-size: 11px;
             text-align: left;
         }
         .hometext4 {
             font-size: 2vw;
             font-weight: 600;
             background-color: #ffd22e;
-            box-shadow: 7px 4px 6px 2px #D3D3D3;
             border-radius: 7px;
+            color: white;
+            border-color: white;
+            box-shadow: 10px 6px 6px 2px #D3D3D3;
         }
 
         .hometext1 {
             color: #98ccff;
             font-weight: bold;
             font-size: 4vw;
-            text-shadow: 1px 1px black;
+            text-shadow: 1px 2px black;
         }
         .hometext3 {
-            color: #f19b60;
+            color: #ed7d31;
             font-weight: bold;
             font-size: 2vw;
             text-shadow: 0.5px 0.5px 0px black;
+        }
+        .hometext4:hover {
+            background-color: #ed7d31;
         }
 }

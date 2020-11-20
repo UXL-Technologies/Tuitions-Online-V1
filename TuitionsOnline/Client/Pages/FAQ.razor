@@ -1,0 +1,203 @@
+﻿@* Authors:VM,VB
+    Date:20/11/2020
+    Aim:To display fAQ *@
+@page "/faq"
+
+<h1 class="page_header">Frequently Asked Questions by Teachers </h1>
+<br/>
+<Accordion>
+    <Collapse Visible="@collapse1Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse1Visible = !collapse1Visible)" class="text_In_button">What is the aim of the firm Tuitions Online? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody Class="answer_style">
+            <p>The aim of Tuitions Online is to be a ‘Marketplace’ for Students to find the teachers of their choice.This process includes:</p>
+            <p>(a)Finding the right teacher.</p>
+            <p>(b)Finding suitable timings for tuitions.</p>
+            <p>(c)Purchasing ‘Classes’.</p>
+            <p>(d)Obtaining tuitions online.</p>
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse2Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse2Visible = !collapse2Visible)" class="text_In_button">What is the primary benefit for a teacher? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody Class="answer_style">
+            The primary benefit for a teacher is to be available to students across India without having to worry about marketing and sales of their services.
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse3Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse3Visible = !collapse3Visible)" class="text_In_button">How does a teacher get paid? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p>Step 1 - A student purchases ‘Tuition sessions’ from a teacher and pays online.</p>
+            <p>Step 2 – The teacher is immediately notified by email about the payment received.</p>
+            <p>Step 3 – The payment is now in the account of Tuitions Online.</p>
+            <p>Step 4 – Tuitions Online will send out the payment to the teacher once in 10 days at the most by NEFT.</p>
+            <p>Every teacher will have access to information all purchases made by students and the payments received and payments made.</p>
+       </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse4Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse4Visible = !collapse4Visible)" class="text_In_button">Do teachers have to pay anything to Tuitions Online? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p>Teachers will need to pay a set up fee to cover the expenses of setting up a teacher in the eCommerce system.  As an opening, limited time offer to teachers, this one-time setup fee is just Rs 1000.</p>
+            <p>To make it even easier for teachers, as part of the opening offer, for a limited time, Tuitions Online will take this set up from the income that the teacher generates through this eCommerce platform.   Consequently, there is no risk to the teachers.</p>
+         </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse5Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse5Visible = !collapse5Visible)" class="text_In_button">Will all teachers who apply become part of Tuitions Online?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            All teachers who apply will be interviewed by management personnel of Tuitions Online.  Approved teachers will be included in our eCommerce system.
+        </CollapseBody>
+    </Collapse>
+    
+    <Collapse Visible="@collapse6Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse6Visible = !collapse6Visible)" class="text_In_button">How do teachers conduct classes?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p>Teachers can conduct classes online using their own online solutions like:</p>
+
+            <p>1) JioMeet – free now.</p>
+
+            <p>2) Microsoft Teams – a free account can be given by Tuitions Online if a Teacher requires one.</p>
+
+            <p>3)Zoom – free up to 40 mins.  Paid version to be purchased by the teacher.</p>
+            <p>4)Zoho meeting – paid version to be purchased by the teacher.</p>
+
+         </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse7Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse7Visible = !collapse7Visible)" class="text_In_button">Do teachers get a salary?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            Teachers earn through the sale of their time.  There is no salary given by Tuitions Online.
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse8Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse8Visible = !collapse8Visible)" class="text_In_button">Can teachers get a Microsoft Teams account for meetings? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p>Yes, a Microsoft Teams account will be provided by Tuitions Online if the Teacher asks for it.</p>
+
+            <p>Please note that Tuitions Online will not provide technical support for this Microsoft Teams account.</p>
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse9Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse9Visible = !collapse9Visible)" class="text_In_button">Where and how do Teachers conduct classes?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            Teachers are to conduct classes online at the time and place of their choosing.
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse10Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse10Visible = !collapse10Visible)" class="text_In_button">What services will Tuition Online be providing?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p> Tuitions Online will be primarily providing the following services:</p>
+            <p>1. A platform to market the teacher’s services.</p>
+            <p>2. A self-service profile management system.</p>
+            <p>3. A detailed ‘Account’ management system to show all transactions related to the teacher.</p>
+            <p>4. Continuous upgrading and maintenance of the online platform.</p>
+            <p>5. Teacher customer training services for a fee of Rs 200 per hour if required.  Free training material will be provided to the teacher online.</p>
+            <p>6. Technical support for the online system, using the online helpdesk, available as follows:</p>
+            <p>(a) Weekends – 8 am to 8 pm.</p>
+            <p>(b)Monday to Friday  – 9 am till 8 pm.</p>
+            <p>Response time for technical support is ‘Within two hours’.  In case of emergencies, teachers can leave a voice message on our phone system.</p> 
+            <p>Please note that a technical team of Tuitions Online is monitoring the system for 12 hours a day, every day of the week to ensure that the system is performing as it should.</p>
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse11Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse11Visible = !collapse11Visible)" class="text_In_button">When will students be able to purchase classes?   </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p>As of now, Nov 20, 2020, we are in the process of registering teachers.  We will open the system for students once we have a viable strength of registered users.  We expect this to take up to Dec 31, 2020.</p>
+            <p>Our endeavor is to open our system for students as soon as possible.</p> 
+            <p>If we open too early, with too few options for students, the ‘Market’ will not respond well to our advertising efforts.</p>
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse12Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse12Visible = !collapse12Visible)" class="text_In_button">Is Tuitions Online open to students all over India?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            Yes, Tuitions Online is meant for students all over India.
+        </CollapseBody>
+    </Collapse>
+    <Collapse Visible="@collapse13Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse13Visible = !collapse13Visible)" class="text_In_button">Will you give us any study material?  </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            We depend on our teachers to provide all services related to their classes.
+        </CollapseBody>
+    </Collapse>
+    
+    <Collapse Visible="@collapse14Visible">
+        <CollapseHeader Class="header_style">
+            <Heading Size="HeadingSize.Is5">
+                <Button Clicked="@(()=>collapse14Visible = !collapse14Visible)" class="text_In_button">How much should I charge my students as I am new to this line of activity? </Button>
+            </Heading>
+        </CollapseHeader>
+        <CollapseBody class="answer_style">
+            <p> We recommend that you start with a low figure and build up your ‘Clients’.   You can always give advance notice and change the fee.  For example your profile online can say:</p>
+             <p> 1. “My fee is Rs 300 per hour” – valid  up to Feb 2021. “</p>
+             <p> 2. “My fee will be Rs 400” – valid from 1 March 2021 to 30 June 2021.</p>
+        </CollapseBody>
+    </Collapse>
+
+</Accordion>
+@code{
+    bool collapse1Visible = true;
+    bool collapse2Visible = false;
+    bool collapse3Visible = false;
+    bool collapse4Visible = false;
+    bool collapse5Visible = false;
+    bool collapse6Visible = false;
+    bool collapse7Visible = false;
+    bool collapse8Visible = false;
+    bool collapse9Visible = false;
+    bool collapse10Visible = false;
+    bool collapse11Visible = false;
+    bool collapse12Visible = false;
+    bool collapse13Visible = false;
+    bool collapse14Visible = false;
+    
+
+}

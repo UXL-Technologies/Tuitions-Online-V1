@@ -1,0 +1,38 @@
+﻿.text_In_button {
+    font-weight: 600;
+    color: #ed7d31;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+.answer_style {
+    color: #2b7ab8;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.text_In_button:hover {
+    color: #5145e6;
+}
+    .header_style {
+        background-color: #d3d3d3;
+    }
+.page_header {
+    color: #2b7ab8;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align:center;
+}
+.footer_FAQ {
+    margin-left: 20rem;
+    margin-top: -81px;
+}
+
+/*MEDIA QUERY*/
+@media screen and (max-width: 700px) {
+
+    .footer_FAQ {
+        margin-left: 15rem;
+        margin-top: -81px;
+    }
+

@@ -672,6 +672,9 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Modal.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazorise.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazorise.Bootstrap.dll
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Blazorise.Icons.FontAwesome.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
