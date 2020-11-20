@@ -1,0 +1,56 @@
+﻿
+.text_header {
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+    font-family: sans-serif;
+     color:#2b7ab8;
+    
+}
+.text_Subheader {
+    color:#ed7d31;
+    font-weight: 800;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.text_paragraph {
+    color: #2b7ab8;
+    font-size:16px;
+    font-family:sans-serif;
+}
+
+.footer_style {
+    background-color: #0174b7;
+    height:8rem;
+    color:white;
+    margin-top:10rem;
+
+  
+}
+.footer_labels {
+    font-weight: 600;
+    margin-left: 28px;
+    margin-bottom: -10px;
+}
+.legal_text_style {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+ 
+}
+.modifed_date {
+    text-align: center;
+    color: #ED7D31;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.footer_elements {
+    margin-left: 10rem;
+    margin-top: -39px;
+}
+
+
+

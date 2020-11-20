@@ -240,6 +240,7 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\open-iconic\ICON-LICENSE
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\open-iconic\README.md
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\privacyPolicy_termsAndCondition.css
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\Responsive.css
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\Spinner.css
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\TextOverImage.css
@@ -260,6 +261,7 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\Reachout.png
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\reachoutkid.png
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\tuitionsonline logo (1) (1).png
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Image\tutionsOnlineLogo.jpg
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\index.html
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\_framework\_bin\Blazored.Modal.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\_framework\_bin\Blazored.Toast.dll

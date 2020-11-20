@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "TuitionsOnline.Client.dll": "sha256-vDPFL8a3sW+ebEiwm0Gf9jGzQx33Go8tmlzaAJwT8s4=",
+      "TuitionsOnline.Client.dll": "sha256-k02P2kGh3QIgyNLMqyVRAg73nwCDYkJfBM+QGNlwGp4=",
       "System.Net.Http.Json.dll": "sha256-brS4kX7v7bK5QHvD3m28MWueZWLhM2\/Redb9wvgCLAI=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -65,7 +65,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "TuitionsOnline.Client.pdb": "sha256-YRMVRZwCWfaL+AorDpV\/TiyqqHZ7KOLf0JnXN0VDZ4I=",
+      "TuitionsOnline.Client.pdb": "sha256-hxXoDiHsOZOGaZWVkBWs60jYis0SeYhrIDYZwg8RDhI=",
       "TuitionsOnline.Shared.pdb": "sha256-U301Yb4cuDvkRVlsdDbZzHKxEMqK4x0EtBRgwRYMuF4="
     },
     "runtime": {

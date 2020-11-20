@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\vDPFL8a3sW_ebEiwm0Gf9jGzQx33Go8tmlzaAJwT8s4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\k02P2kGh3QIgyNLMqyVRAg73nwCDYkJfBM_QGNlwGp4=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\TuitionsOnline.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/TuitionsOnline.Client.dll.br"
     },
@@ -286,7 +286,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YRMVRZwCWfaL_AorDpV-TiyqqHZ7KOLf0JnXN0VDZ4I=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hxXoDiHsOZOGaZWVkBWs60jYis0SeYhrIDYZwg8RDhI=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\TuitionsOnline.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/TuitionsOnline.Client.pdb.br"
     },
@@ -316,7 +316,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rzblV0Ak5Aanp-x7q_56CgaJjKYdgZtlvG3gdrZ3CKg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hDJDh6w3hEWyhpKnEGPka02sSVvjQB-zP_rLM4UYfV0=.hash",
       "Source": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }

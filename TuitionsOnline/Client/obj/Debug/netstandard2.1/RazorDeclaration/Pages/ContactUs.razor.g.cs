@@ -119,7 +119,7 @@ using TuitionsOnline.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 94 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\ContactUs.razor"
+#line 93 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\ContactUs.razor"
        
 
     public ContactToUs contactToUs = new ContactToUs();

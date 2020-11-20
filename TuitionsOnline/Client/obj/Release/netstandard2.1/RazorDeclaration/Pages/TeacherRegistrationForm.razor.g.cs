@@ -132,7 +132,7 @@ using BlazorInputFile;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 276 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\TeacherRegistrationForm.razor"
+#line 279 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\TeacherRegistrationForm.razor"
        
 
 
@@ -177,6 +177,15 @@ using BlazorInputFile;
         Modal.Cancel();
 
     }
+
+    ////Author:VB,VM
+    ////Onclick of privacy policy the modal has to be closed and has to be navigated to the privacy policy page
+    //void privacyPolicyOnClick()
+    //{
+    //    Modal.Cancel();
+
+
+    //}
 
 
 #line default

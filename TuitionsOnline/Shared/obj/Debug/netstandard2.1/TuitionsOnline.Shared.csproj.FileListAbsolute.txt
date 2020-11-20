@@ -17,7 +17,6 @@ C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Shared\obj\Deb
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.deps.json
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\bin\Debug\netstandard2.1\TuitionsOnline.Shared.pdb
-C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csprojAssemblyReference.cache
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfoInputs.cache
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.AssemblyInfo.cs
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Debug\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache

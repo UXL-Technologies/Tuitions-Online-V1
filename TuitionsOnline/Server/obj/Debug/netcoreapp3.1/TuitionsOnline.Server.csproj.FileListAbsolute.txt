@@ -505,6 +505,7 @@ C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Deb
 C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.dll
 C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.pdb
 C:\Users\UXL\Desktop\TuitionsOnline\TuitionsOnline\TuitionsOnline\Server\obj\Debug\netcoreapp3.1\TuitionsOnline.Server.genruntimeconfig.cache
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.StaticWebAssets.xml
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -659,7 +660,6 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Client.StaticWebAssets.xml
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.StaticWebAssets.xml
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.exe
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Server\bin\Debug\netcoreapp3.1\TuitionsOnline.Server.deps.json

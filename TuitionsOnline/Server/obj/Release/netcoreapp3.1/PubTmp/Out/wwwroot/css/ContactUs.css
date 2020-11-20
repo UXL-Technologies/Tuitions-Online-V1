@@ -16,14 +16,12 @@
     font-size: 25px;
 }
 .imgcontainer {
-    position: relative;
+   
     font-size: 20px;
 }
 .imgcontainercenter {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
+    text-align: center;
+    margin-bottom: -8rem;
 }
 .buttonsubmit {
     background-color: #f47c20;
