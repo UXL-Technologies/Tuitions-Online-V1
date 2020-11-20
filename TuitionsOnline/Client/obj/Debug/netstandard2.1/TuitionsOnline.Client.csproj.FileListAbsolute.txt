@@ -1211,6 +1211,6 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.Bootstrap.dll.gz
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.Icons.FontAwesome.dll.br
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.Bootstrap.dll.br
-C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\3rmMcsqTxRX8KJwR7JqDfYlABp2FYScrTeBx9KBW59Q=.hash
-C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\p_4HwRgLLFOogyaRKIYKA7ourrHqsL3voRQG2Td-ZlQ=.hash
-C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\AE_uoCYlHvVv95ETrLIq-PcPNVEu_1ammQW81XNihJU=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\Tia1B0LwttW_usgEF4Fadc_bIIysWtTskvNS03C01q4=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\b2x0hmjJ_hhSZubW0TzGzQtI3RHistHgJwZHUjviZS0=.hash
+C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\obj\Debug\netstandard2.1\integrity\OUbsnxGev08FggRotwKLioKVishFZGEWJBMRjIy_K0w=.hash
