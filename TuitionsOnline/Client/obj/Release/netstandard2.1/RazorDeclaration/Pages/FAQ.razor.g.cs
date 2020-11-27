@@ -119,24 +119,25 @@ using Blazorise;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 186 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\FAQ.razor"
-      
-    bool collapse1Visible = true;
-    bool collapse2Visible = false;
-    bool collapse3Visible = false;
-    bool collapse4Visible = false;
-    bool collapse5Visible = false;
-    bool collapse6Visible = false;
-    bool collapse7Visible = false;
-    bool collapse8Visible = false;
-    bool collapse9Visible = false;
-    bool collapse10Visible = false;
-    bool collapse11Visible = false;
-    bool collapse12Visible = false;
-    bool collapse13Visible = false;
-    bool collapse14Visible = false;
-    
+#line 202 "C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\Pages\FAQ.razor"
+              
+            bool collapse1Visible = true;
+            bool collapse2Visible = false;
+            bool collapse3Visible = false;
+            bool collapse4Visible = false;
+            bool collapse5Visible = false;
+            bool collapse6Visible = false;
+            bool collapse7Visible = false;
+            bool collapse8Visible = false;
+            bool collapse9Visible = false;
+            bool collapse10Visible = false;
+            bool collapse11Visible = false;
+            bool collapse12Visible = false;
+            bool collapse13Visible = false;
+            bool collapse14Visible = false;
 
+
+        
 
 #line default
 #line hidden
