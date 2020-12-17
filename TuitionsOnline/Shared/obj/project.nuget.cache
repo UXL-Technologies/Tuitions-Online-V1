@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Sw18fMDluz3udkedG4Hi9WBtOKgmtzVd5VfDBXO6tHKKz0HATlbOoCejaZDNyTVsGB6DWoWN3VJtWU1SS8phuQ==",
+  "dgSpecHash": "vW8bRGXIYUW1tBnWqfg3aPOg9+4ZZSE2W3KpOILoOuEvZw9fp6XTLwGNGFGTyVCjuD/EdaCI1zhR8wOBHC+Jjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
+  "projectFilePath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ranjith Manoharan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

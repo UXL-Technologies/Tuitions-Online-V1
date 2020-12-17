@@ -1,8 +1,8 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Client\bin\Debug\netstandard2.1\wwwroot\" />
-  <ContentRoot BasePath="_content/Blazored.Modal" Path="C:\Users\Ranjith Manoharan\.nuget\packages\blazored.modal\2.3.0\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Blazored.Toast" Path="C:\Users\Ranjith Manoharan\.nuget\packages\blazored.toast\3.1.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/BlazorInputFile" Path="C:\Users\Ranjith Manoharan\.nuget\packages\blazorinputfile\0.2.0\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\Ranjith Manoharan\.nuget\packages\blazorise\0.9.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="C:\Users\Ranjith Manoharan\.nuget\packages\blazorise.bootstrap\0.9.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/Blazored.Modal" Path="C:\Users\user\.nuget\packages\blazored.modal\2.3.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazored.Toast" Path="C:\Users\user\.nuget\packages\blazored.toast\3.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/BlazorInputFile" Path="C:\Users\user\.nuget\packages\blazorinputfile\0.2.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise" Path="C:\Users\user\.nuget\packages\blazorise\0.9.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Blazorise.Bootstrap" Path="C:\Users\user\.nuget\packages\blazorise.bootstrap\0.9.2\build\..\staticwebassets\" />
 </StaticWebAssets>

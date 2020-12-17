@@ -16,3 +16,12 @@ C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.dll
 C:\Users\Ranjith Manoharan\Desktop\.net\Online Tuition\.net Code\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.pdb
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\bin\Release\netstandard2.1\TuitionsOnline.Shared.deps.json
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\bin\Release\netstandard2.1\TuitionsOnline.Shared.dll
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\bin\Release\netstandard2.1\TuitionsOnline.Shared.pdb
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.csprojAssemblyReference.cache
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.AssemblyInfoInputs.cache
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.AssemblyInfo.cs
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.dll
+D:\Projects\12_17_2020\TuitionsOnline\TuitionsOnline\Shared\obj\Release\netstandard2.1\TuitionsOnline.Shared.pdb

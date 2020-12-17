@@ -2315,19 +2315,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ranjith Manoharan\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
+      "projectUniqueName": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
       "projectName": "TuitionsOnline.Client",
-      "projectPath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
-      "packagesPath": "C:\\Users\\Ranjith Manoharan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\",
+      "projectPath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Client\\TuitionsOnline.Client.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ranjith Manoharan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2335,15 +2339,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/Y7FOQBXeI4kluWI3D7eYbVXxIMgYfzcxE8T7BdZ7KcSic3epzp/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
-              "projectPath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj"
+            "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
+              "projectPath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj"
             }
           }
         }
@@ -2356,7 +2358,6 @@
     },
     "frameworks": {
       "netstandard2.1": {
-        "targetAlias": "netstandard2.1",
         "dependencies": {
           "BlazorInputFile": {
             "target": "Package",
@@ -2420,7 +2421,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

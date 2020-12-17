@@ -26,8 +26,11 @@ namespace TuitionsOnline.Shared
         [RegularExpression(@"^[0-9]*$", ErrorMessage = "Please enter a valid phone number.")]
         public string ContactPhoneNumber { get; set; }
 
-        [Required(ErrorMessage = "Please select year of birth.")]
-        public string YearOfBirth { get; set; }
+
+        //Commented by JP on 17.12.2020 As per GJ requirement
+        //To avoid null expection "0000" was hardcoded
+        //[Required(ErrorMessage = "Please select year of birth.")]
+        public string YearOfBirth { get; set; } = "0000";
 
         [Required(ErrorMessage = "Please mention the name of the city you live in.")]
         public string ResidentialCity { get; set; }

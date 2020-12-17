@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {}
+    "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
+    "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
+        "projectUniqueName": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
         "projectName": "TuitionsOnline.Shared",
-        "projectPath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
-        "packagesPath": "C:\\Users\\Ranjith Manoharan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ranjith Manoharan\\Desktop\\.net\\Online Tuition\\.net Code\\TuitionsOnline\\TuitionsOnline\\Shared\\obj\\",
+        "projectPath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\TuitionsOnline.Shared.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\12_17_2020\\TuitionsOnline\\TuitionsOnline\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ranjith Manoharan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,12 +25,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/Y7FOQBXeI4kluWI3D7eYbVXxIMgYfzcxE8T7BdZ7KcSic3epzp/api": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -39,7 +40,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "dependencies": {
             "System.ComponentModel.Annotations": {
               "target": "Package",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

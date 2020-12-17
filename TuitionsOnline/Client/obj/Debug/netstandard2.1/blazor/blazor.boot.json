@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "TuitionsOnline.Client.dll": "sha256-Xk+2MVGn9R08nANIcFT+PjGuW2o3vBxlrRL0jweTdx4=",
+      "TuitionsOnline.Client.dll": "sha256-guirD+STuaETdWC35Z53z6KtW8WX20QnlnNKjXkax+w=",
       "System.Net.Http.Json.dll": "sha256-brS4kX7v7bK5QHvD3m28MWueZWLhM2\/Redb9wvgCLAI=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -52,7 +52,7 @@
       "BlazorInputFile.dll": "sha256-C0KrMmLQQE68cd1+FNwIOW89nNGbOH48hRxQAoSBaaA=",
       "Blazored.Modal.dll": "sha256-u3mSuMJCMD6zw+QWRtHywLZ\/XEyLHqTLnXPo93R7FSA=",
       "Blazored.Toast.dll": "sha256-SnlpX7tqR4Or48+LUVR7CMv3xLhjy1JBnmDfQCb2GwM=",
-      "TuitionsOnline.Shared.dll": "sha256-8bnjg+mIhC42kvjZKuhZy1AwhkuWPJfVLpEKmgbfPd8=",
+      "TuitionsOnline.Shared.dll": "sha256-y50I6BMLjvWgjUjKDl7JpCB1tMyLb1KfD21ozQ\/b1Mw=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-1F\/wUgXS24IEcgjEtPq9GSC4I7V9f94yI+TwDe7XlMI=",
       "Microsoft.Extensions.Primitives.dll": "sha256-DMpuPn3obzlarJujzk3yNzcISc75h8mdbxWKEjYbDL4=",
@@ -68,8 +68,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "TuitionsOnline.Client.pdb": "sha256-riaA0HgKeYGV93uuX2N1re0G5IfhrsLchieddnBxNN4=",
-      "TuitionsOnline.Shared.pdb": "sha256-U301Yb4cuDvkRVlsdDbZzHKxEMqK4x0EtBRgwRYMuF4="
+      "TuitionsOnline.Client.pdb": "sha256-dB1D7ULfU3povEjjc\/zHnd3iXTjbBZKGTKG1lUT\/R8k=",
+      "TuitionsOnline.Shared.pdb": "sha256-\/HX7pgzAeuS2ixTzW+sOat4PyLVSRTSNE1Eta9PPeF8="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

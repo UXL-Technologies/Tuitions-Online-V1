@@ -55,69 +55,70 @@
                             <ValidationMessage For="@(() => teacher.ContactPhoneNumber)" />
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label style="font-weight: 600" for="country"> <span style="color: red">*</span> Year Of Birth</label>
-                        </div>
-                        <div class="col-75">
-                            <InputSelect @bind-Value="@teacher.YearOfBirth" class="form-control">
-                                <option style="background-color: lightgrey" value="">Select the Year</option>
+                    @* Commented by JP on 17.12.2020 As per GJ requirement*@
+        @*<div class="row">
+            <div class="col-25">
+                <label style="font-weight: 600" for="country"> <span style="color: red">*</span> Year Of Birth</label>
+            </div>
+            <div class="col-75">
+                <InputSelect @bind-Value="@teacher.YearOfBirth" class="form-control">
+                    <option style="background-color: lightgrey" value="">Select the Year</option>
 
-                                <option style="background-color: lightgrey" value="1950">1950</option>
-                                <option style="background-color: lightgrey" value="1951">1951</option>
-                                <option style="background-color: lightgrey" value="1952">1952</option>
-                                <option style="background-color: lightgrey" value="1953">1953</option>
-                                <option style="background-color: lightgrey" value="1954">1954</option>
-                                <option style="background-color: lightgrey" value="1955">1955</option>
-                                <option style="background-color: lightgrey" value="1956">1956</option>
-                                <option style="background-color: lightgrey" value="1957">1957</option>
-                                <option style="background-color: lightgrey" value="1958">1958</option>
-                                <option style="background-color: lightgrey" value="1959">1959</option>
-                                <option style="background-color: lightgrey" value="1960">1960</option>
-                                <option style="background-color: lightgrey" value="1961">1961</option>
-                                <option style="background-color: lightgrey" value="1962">1962</option>
-                                <option style="background-color: lightgrey" value="1963">1963</option>
-                                <option style="background-color: lightgrey" value="1964">1964</option>
-                                <option style="background-color: lightgrey" value="1965">1965</option>
-                                <option style="background-color: lightgrey" value="1966">1966</option>
-                                <option style="background-color: lightgrey" value="1967">1967</option>
-                                <option style="background-color: lightgrey" value="1968">1968</option>
-                                <option style="background-color: lightgrey" value="1969">1969</option>
-                                <option style="background-color: lightgrey" value="1970">1970</option>
-                                <option style="background-color: lightgrey" value="1971">1971</option>
-                                <option style="background-color: lightgrey" value="1972">1972</option>
-                                <option style="background-color: lightgrey" value="1973">1973</option>
-                                <option style="background-color: lightgrey" value="1974">1974</option>
-                                <option style="background-color: lightgrey" value="1975">1975</option>
-                                <option style="background-color: lightgrey" value="1976">1976</option>
-                                <option style="background-color: lightgrey" value="1977">1977</option>
-                                <option style="background-color: lightgrey" value="1978">1978</option>
-                                <option style="background-color: lightgrey" value="1979">1979</option>
-                                <option style="background-color: lightgrey" value="1980">1980</option>
-                                <option style="background-color: lightgrey" value="1981">1981</option>
-                                <option style="background-color: lightgrey" value="1982">1982</option>
-                                <option style="background-color: lightgrey" value="1983">1983</option>
-                                <option style="background-color: lightgrey" value="1984">1984</option>
-                                <option style="background-color: lightgrey" value="1985">1985</option>
-                                <option style="background-color: lightgrey" value="1986">1986</option>
-                                <option style="background-color: lightgrey" value="1987">1987</option>
-                                <option style="background-color: lightgrey" value="1988">1988</option>
-                                <option style="background-color: lightgrey" value="1989">1989</option>
-                                <option style="background-color: lightgrey" value="1990">1990</option>
-                                <option style="background-color: lightgrey" value="1991">1991</option>
-                                <option style="background-color: lightgrey" value="1992">1992</option>
-                                <option style="background-color: lightgrey" value="1993">1993</option>
-                                <option style="background-color: lightgrey" value="1994">1994</option>
-                                <option style="background-color: lightgrey" value="1995">1995</option>
-                                <option style="background-color: lightgrey" value="1996">1996</option>
-                                <option style="background-color: lightgrey" value="1997">1997</option>
-                                <option style="background-color: lightgrey" value="1998">1998</option>
-                                <option style="background-color: lightgrey" value="1999">1999</option>
-                                <option style="background-color: lightgrey" value="2000">2000</option>
-                            </InputSelect>
-                            <ValidationMessage For="@(() => teacher.YearOfBirth)" />
-                        </div>
-                    </div>
+                    <option style="background-color: lightgrey" value="1950">1950</option>
+                    <option style="background-color: lightgrey" value="1951">1951</option>
+                    <option style="background-color: lightgrey" value="1952">1952</option>
+                    <option style="background-color: lightgrey" value="1953">1953</option>
+                    <option style="background-color: lightgrey" value="1954">1954</option>
+                    <option style="background-color: lightgrey" value="1955">1955</option>
+                    <option style="background-color: lightgrey" value="1956">1956</option>
+                    <option style="background-color: lightgrey" value="1957">1957</option>
+                    <option style="background-color: lightgrey" value="1958">1958</option>
+                    <option style="background-color: lightgrey" value="1959">1959</option>
+                    <option style="background-color: lightgrey" value="1960">1960</option>
+                    <option style="background-color: lightgrey" value="1961">1961</option>
+                    <option style="background-color: lightgrey" value="1962">1962</option>
+                    <option style="background-color: lightgrey" value="1963">1963</option>
+                    <option style="background-color: lightgrey" value="1964">1964</option>
+                    <option style="background-color: lightgrey" value="1965">1965</option>
+                    <option style="background-color: lightgrey" value="1966">1966</option>
+                    <option style="background-color: lightgrey" value="1967">1967</option>
+                    <option style="background-color: lightgrey" value="1968">1968</option>
+                    <option style="background-color: lightgrey" value="1969">1969</option>
+                    <option style="background-color: lightgrey" value="1970">1970</option>
+                    <option style="background-color: lightgrey" value="1971">1971</option>
+                    <option style="background-color: lightgrey" value="1972">1972</option>
+                    <option style="background-color: lightgrey" value="1973">1973</option>
+                    <option style="background-color: lightgrey" value="1974">1974</option>
+                    <option style="background-color: lightgrey" value="1975">1975</option>
+                    <option style="background-color: lightgrey" value="1976">1976</option>
+                    <option style="background-color: lightgrey" value="1977">1977</option>
+                    <option style="background-color: lightgrey" value="1978">1978</option>
+                    <option style="background-color: lightgrey" value="1979">1979</option>
+                    <option style="background-color: lightgrey" value="1980">1980</option>
+                    <option style="background-color: lightgrey" value="1981">1981</option>
+                    <option style="background-color: lightgrey" value="1982">1982</option>
+                    <option style="background-color: lightgrey" value="1983">1983</option>
+                    <option style="background-color: lightgrey" value="1984">1984</option>
+                    <option style="background-color: lightgrey" value="1985">1985</option>
+                    <option style="background-color: lightgrey" value="1986">1986</option>
+                    <option style="background-color: lightgrey" value="1987">1987</option>
+                    <option style="background-color: lightgrey" value="1988">1988</option>
+                    <option style="background-color: lightgrey" value="1989">1989</option>
+                    <option style="background-color: lightgrey" value="1990">1990</option>
+                    <option style="background-color: lightgrey" value="1991">1991</option>
+                    <option style="background-color: lightgrey" value="1992">1992</option>
+                    <option style="background-color: lightgrey" value="1993">1993</option>
+                    <option style="background-color: lightgrey" value="1994">1994</option>
+                    <option style="background-color: lightgrey" value="1995">1995</option>
+                    <option style="background-color: lightgrey" value="1996">1996</option>
+                    <option style="background-color: lightgrey" value="1997">1997</option>
+                    <option style="background-color: lightgrey" value="1998">1998</option>
+                    <option style="background-color: lightgrey" value="1999">1999</option>
+                    <option style="background-color: lightgrey" value="2000">2000</option>
+                </InputSelect>
+                <ValidationMessage For="@(() => teacher.YearOfBirth)" />
+            </div>
+        </div>*@
                     <div class="row">
                         <div class="col-25">
                             <label style="font-weight: 600" for="lname"> <span style="color: red">*</span>Your City</label>
@@ -147,15 +148,15 @@
 
                     @if (teacher.Graduate)
                     {
-                    <div class="row">
-                        <div class="col-25">
-                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        <div class="row">
+                            <div class="col-25">
+                                <label style="font-weight: 600" for="lname">Please enter details</label>
+                            </div>
+                            <div class="col-75">
+                                <InputText @bind-Value="@teacher.GraduateField" style="width:auto" class="form-control" />
+                                <ValidationMessage For="@(() => teacher.GraduateField)" />
+                            </div>
                         </div>
-                        <div class="col-75">
-                            <InputText @bind-Value="@teacher.GraduateField" style="width:auto" class="form-control" />
-                            <ValidationMessage For="@(() => teacher.GraduateField)" />
-                        </div>
-                    </div>
                     }
                     <div class="row">
                         <div class="col-25">
@@ -168,15 +169,15 @@
 
                     @if (teacher.PostGraduate)
                     {
-                    <div class="row">
-                        <div class="col-25">
-                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        <div class="row">
+                            <div class="col-25">
+                                <label style="font-weight: 600" for="lname">Please enter details</label>
+                            </div>
+                            <div class="col-75">
+                                <InputText @bind-Value="@teacher.PostGraduateField" style="width:auto" class="form-control" />
+                                <ValidationMessage For="@(() => teacher.PostGraduateField)" />
+                            </div>
                         </div>
-                        <div class="col-75">
-                            <InputText @bind-Value="@teacher.PostGraduateField" style="width:auto" class="form-control" />
-                            <ValidationMessage For="@(() => teacher.PostGraduateField)" />
-                        </div>
-                    </div>
                     }
                     <div class="row">
                         <div class="col-25">
@@ -189,15 +190,15 @@
 
                     @if (teacher.Doctorate)
                     {
-                    <div class="row">
-                        <div class="col-25">
-                            <label style="font-weight: 600" for="lname">Please enter details</label>
+                        <div class="row">
+                            <div class="col-25">
+                                <label style="font-weight: 600" for="lname">Please enter details</label>
+                            </div>
+                            <div class="col-75">
+                                <InputText @bind-Value="@teacher.DoctrateField" style="width:auto" class="form-control" />
+                                <ValidationMessage For="@(() => teacher.DoctrateField)" />
+                            </div>
                         </div>
-                        <div class="col-75">
-                            <InputText @bind-Value="@teacher.DoctrateField" style="width:auto" class="form-control" />
-                            <ValidationMessage For="@(() => teacher.DoctrateField)" />
-                        </div>
-                    </div>
                     }
                     <div class="row">
                         <div class="col-25">
@@ -261,9 +262,9 @@
                     </div>
                     <p>If you click the Save button and you do not get a “Success” message , please look for error messages above in red.</p>
                     <p>
-                        By clicking the Save Button you accept our <a href="privacypolicy">Privacy Policy</a> and <NavLink  href="terms&conditions">Terms and Conditions</NavLink> for using this site.
+                        By clicking the Save Button you accept our <a href="privacypolicy">Privacy Policy</a> and <NavLink href="terms&conditions">Terms and Conditions</NavLink> for using this site.
                     </p>
-                 </form>
+                </form>
             </div>
         </div>
     }
